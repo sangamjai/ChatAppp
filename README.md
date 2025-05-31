@@ -3,7 +3,7 @@
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
+  <a style="" href="https://github.com/sangamjai">
   <img src="https://profile-counter.glitch.me/chat-app/count.svg" />
   </a>
 </p>
@@ -51,7 +51,7 @@ Follow these steps to set up and run the project locally:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/akashdeep023/Chat_App.git
+    git clone https://github.com/sangamjai/ChatAppp
     cd Chat_App
     ```
 
@@ -140,9 +140,9 @@ Open `http://localhost:5173` in your web browser.
 
 ## Author
 
-Akash Deep \
-Email: contact.akashdeep023@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
+Sangam Jain\
+Email: contact.jainsangam3@gmail.com \
+LinkedIn : https://www.linkedin.com/in/sangam-jain-559b142b1
 
 ## Images
 **Profile**
