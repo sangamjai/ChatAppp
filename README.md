@@ -146,7 +146,7 @@ LinkedIn : https://www.linkedin.com/in/sangam-jain-559b142b1
 
 ## Images
 **Profile**
-![Macbook-Air-localhost](https://github.com/user-attachments/assets/7ea906d8-10a9-4e79-a3aa-46f45dd328bb)
+
 
 **Group Create**
 ![Macbook-Air-localhost (5)](https://github.com/user-attachments/assets/49cff226-f372-4668-8095-8f741265edc3)
